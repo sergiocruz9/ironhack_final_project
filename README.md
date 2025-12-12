@@ -123,6 +123,19 @@ Source
 
 Kaggle: “Spotify Dataset 1921–2020, 600k+ Tracks” (by Yamac Eren Ay)
 
+Dataset
+
+This project is based on the public Spotify dataset from Kaggle:
+
+- Original source: [https://www.kaggle.com/xxxxxxx  <!-- put the real URL -->](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)
+
+In this project I used:
+- `tracks.csv`: main track-level information.
+- `artists.csv`: artist-level information.
+
+The original CSV files are not stored in this repository to keep it lightweight and under GitHub’s file size limits. To reproduce the analysis, download the data from Kaggle and place the files in the project root with the original filenames.
+
+
 Built from the Spotify Web API
 
 Tables used
